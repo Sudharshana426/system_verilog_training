@@ -1,0 +1,11 @@
+System verilog
+  What ?
+    Hardware Description Languages (HDL) like Verilog and VHDL are used to describe hardware behavior so that it can be converted to digital blocks made up of combinational gates and sequential elements. 
+  Why ?
+    SystemVerilog is far superior to Verilog because of its ability to perform constrained random stimuli, use OOP features in testbench construction, functional coverage, assertions among many others.
+  Verification
+      Verification is the process of ensuring that a given hardware design works as expected.
+  Testbench
+      An environment called testbench is required for the verification of a given verilog design and is usually written in SystemVerilog these days. 
+  https://verificationguide.com/systemverilog/systemverilog-tutorial/
+      
